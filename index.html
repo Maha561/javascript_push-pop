@@ -4,9 +4,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>push and pop</title>
 </head>
 <body>
+
+    <h2>
+        push and pop operation using array methods
+    </h2>
+
+    <button onclick="arrpush()">Push</button>
+    <br>
+
+    <br>
+    <button onclick="arrpop()">Pop</button>
+
+    <script>
+
+        var numbers = ["1" ,"2" ,"3","4","5","ABC"];
+
+        // function for pop operation
+
+        function arrpop(){
+
+            var removed = numbers.pop();
+
+            document.write(" The removed element is : "+removed);
+        }
+
+        // function for push  operation
+
+        function arrpush(){
+
+            var added = "xyz";
+
+            numbers.push(added);
+
+            document.write(numbers);
+        }
+
+
+
+    </script>
     
 </body>
 </html>
