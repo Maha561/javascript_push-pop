@@ -33,3 +33,14 @@ Perfect for students or anyone learning core JavaScript concepts.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Maha561/javascript_push-pop.git
+---
+📬 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/mahalakshmi-anandan
+
+🏆 GitHub: https://github.com/Maha561
+
+📧 Gmail: mahalakshmianandan04@gmail.com
+
+⭐ If you find this repository useful, don't forget to give it a star! ⭐
+   
